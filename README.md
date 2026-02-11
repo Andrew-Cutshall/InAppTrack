@@ -1,4 +1,4 @@
-# Heros Of Unemployment
+# Heroes Of Unemployment
 GitHub page for CEN3031 Group Project.
 
 # Members and Roles
@@ -7,4 +7,4 @@ GitHub page for CEN3031 Group Project.
 - Manas Vudugula  | Full Stack Developer
 
 # Trello Roadmap
-https://trello.com/b/78EBVSLC/inapptrack-roadmap
+https://trello.com/b/78EBVSLC/heroes-of-unemployment-roadmap-workload
